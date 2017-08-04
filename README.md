@@ -48,4 +48,4 @@ The future is quite dynamic right now in the .NET world, which is very exciting 
 
 ## > [View the Radar](http://radar.labsincubator.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
-<p style="text-align:center"><a href="https://slides.com/wynvandevanter/excella-tech-radars"><img style="width:150px" src="images/Excella_Logo_Color.png" alt="Excella" /></a></p>
+<p style="text-align:center"><a href="https://github.com/excellalabs/dotnet-radar"><img style="width:115px" src="images/Excella_Logo_Color.png" alt="Excella" /></a></p>
