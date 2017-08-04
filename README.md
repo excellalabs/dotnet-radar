@@ -48,4 +48,4 @@ These are the overarching themes we identified in developing the radar.
 
 ## > [View the Radar](http://radar.excellalabs.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
-<p style="text-align:center"><a href="https://slides.com/wynvandevanter/excella-tech-radars"><img style="width:150px" src="Excella_Logo_Color.png" alt="Excella" /></a></p>
+<p style="text-align:center"><a href="https://slides.com/wynvandevanter/excella-tech-radars"><img style="width:150px" src="images/Excella_Logo_Color.png" alt="Excella" /></a></p>
