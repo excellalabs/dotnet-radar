@@ -1,4 +1,4 @@
-# [.NET Tech Radar, Summer 2017](http://radar.labsincubator.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
+# [.NET Tech Radar, Summer 2017](http://radar.excellalabs.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
 Excella .NET engineers have developed a Tech Radar to help make sense of the fast-changing .NET world. A Tech Radar paints the  landscape of an ecosystem, to provide you with awareness about important new or changing technologies and what you should do with them.
 
@@ -46,6 +46,6 @@ These are the overarching themes we identified in developing the radar.
 
     The future is quite dynamic right now in the .NET world, which is very exciting since many of the changes seem to be going in the right direction.
 
-## > [View the Radar](http://radar.labsincubator.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
+## > [View the Radar](http://radar.excellalabs.com/?sheetId=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1nodW2q6Is-A-Cw7h7d3drneVHuRMP-zhPYEU0o1_Qqg)
 
 <p style="text-align:center"><a href="https://slides.com/wynvandevanter/excella-tech-radars"><img style="width:150px" src="Excella_Logo_Color.png" alt="Excella" /></a></p>
