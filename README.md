@@ -26,7 +26,7 @@ The *ratings*:
 
 These are the overarching themes we identified in developing the radar.
 
-1. .NET Core
+### **.NET Core**
 
     One theme of this radar is that .NET Core is looking more like the clear future for Microsoft's general development landscape, and the 2.0 release may be considered the real version 1.0, so it's definitely something to consider in your future solution strategies. It is certainly a major change that brings in a lot of APIs whose absence were causing people to struggle to make the switch.
 
@@ -36,11 +36,11 @@ These are the overarching themes we identified in developing the radar.
 
     .NET Core development on MacOS or Linux is a perfectly reasonable possibility and works well. Visual Studio Code has established itself as a top IDE for a wide range of languages, and Visual Studio 2017 has made some great performance improvements and should be sought if your shop is using VS.
 
-1. Containers
+### **Containers**
 
     Microsoft has realized how important containers are and have made them a main focus now, not just with the new Windows Containers, but with the full the container landscape - from .NET Core being able to run in Linux containers and be deployed anywhere along with traditionally Linux-only packages, to any app on any platform in a container being deployable in a variety of ways in Azure.
 
-1. Azure
+### **Azure**
 
     Azure is another key focus in the Microsoft ecosystem, which we should continue to see fast growth and matching of AWS capabilities. Cosmos is an interesting addition in a flexible, horizontally scalable NoSQL data store. There is a lot of focus on containers here too, with Docker for Azure making it easy to deploy container-based apps, and Azure Container Service that supports third-party orchestrators such as Kubernetes and Swarm. 
 
